@@ -1,3 +1,11 @@
 theme: minima
 minima:
   skin: dark
+  show_excerpts: true
+  social_links:
+    - platform: github
+      user_url: "https://github.com/Ztarbox/Helios"
+      title: Source of this Website
+    - platform: twitter
+      user_url: "https://twitter.com/Helios"
+      title: Helios on Twitter
