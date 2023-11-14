@@ -1,5 +1,9 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
 title: Helios
-theme: minima
 author:
   name: John Smith
   email: "john.smith@foobar.com"
