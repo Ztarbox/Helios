@@ -13,7 +13,7 @@ description: >
   Our journey of planning, launching and operating the Helios Validator 
   on the Solana blockchain.
 minima:
-  skin: solarized
+  skin: auto
   show_excerpts: true
   social_links:
     - platform: github
