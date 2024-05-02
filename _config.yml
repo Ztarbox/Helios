@@ -5,8 +5,8 @@ remote_theme: jekyll/minima
 
 title: Helios
 author:
-  name: John Smith
-  email: "john.smith@foobar.com"
+  name: Ztarbox and laserkraft
+  email: ""
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
@@ -19,9 +19,6 @@ minima:
     - platform: github
       user_url: "https://github.com/Ztarbox/Helios"
       title: Source of this Website
-    - platform: twitter
-      user_url: "https://twitter.com/Helios"
-      title: Helios on Twitter
   # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
   # order as they should show up.
   # header_pages:
